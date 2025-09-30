@@ -30,7 +30,7 @@
 		"electron-squirrel-startup": "1.x",
 		"electron-util": "^0.14.2",
 		"electron-window-state": "5.x",
-		"lodash": "^4.17.20",
+		"lodash": "^4.17.21",
 		"update-electron-app": "2.0.x"
 	},
 	"devDependencies": {
